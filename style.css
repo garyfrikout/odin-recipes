@@ -1,0 +1,18 @@
+.body{
+    background-color: #e7dbb6;
+}
+
+.title{
+    background-color: #56514F;
+    color: #ccc4b0;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+
+}
+
+.list-of-recipes{
+    background-color: #5A5D59;
+}
